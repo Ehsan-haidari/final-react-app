@@ -32,7 +32,7 @@ export  const MenuList = [
         price: 230
     },
     {
-        name:" Vary Expensive Pizza ",
+        name:" Very Expensive Pizza ",
         image:  Expensive,
         price: 350
     },
